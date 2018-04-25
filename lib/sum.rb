@@ -5,3 +5,4 @@ def sum(array)
     end
     return sum
 end
+
