@@ -1,6 +1,7 @@
 # Public: Appends an element to an Array.
 #
 # array - The Array to serve as template for the new Array.
+# number - The Integer to be appended.
 #
 # Examples
 #
